@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 	char arcal;//arcal stands for arithematical calulation
 	int n1,n2;
-	cout<<"ENTER TWO NUMBERS:"
+	cout<<"ENTER TWO NUMBERS:";
 	cin>>arcal;
 	cout<<"enter two numbers:";
 	cin>>n1>>n2;
